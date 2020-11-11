@@ -1,0 +1,22 @@
+{
+  "name": "js-check-currency",
+  "version": "1.0.0",
+  "description": "check currency dollar price",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rca0/js-check-currency.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rca0/js-check-currency/issues"
+  },
+  "homepage": "https://github.com/rca0/js-check-currency#readme",
+  "dependencies": {
+    "puppeteer": "^5.4.1"
+  }
+}
